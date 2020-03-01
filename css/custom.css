@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap');
+
+body { background-color: #000;}
+
+#timer, #days {font-family: 'Share Tech Mono';}
+
+h1,h2,h3,h4,h5,h6 {margin: 0 !important;padding: 0 !important;}
+
+#countdown {padding: 10% 0;}
+
+h1 {color: #fff;}
+h5,h6  {color: #4c4c4c;}
+
+h1 {font-size: 9rem !important;letter-spacing: -1.5rem !important;}
+h5 {font-size: 2.4rem !important;letter-spacing: -0.3rem !important;}
